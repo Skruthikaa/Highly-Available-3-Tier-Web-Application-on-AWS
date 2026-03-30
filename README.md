@@ -284,6 +284,7 @@ A Load Balancer distributes incoming traffic across multiple instances to ensure
 ![Metrics](https://github.com/user-attachments/assets/2e191870-a355-4b29-b942-a9f0d184ccdd)
 ![Scale-Out](https://github.com/user-attachments/assets/7956a950-651b-4813-b8d0-6a7d59612e79)
 ![Scale-In](https://github.com/user-attachments/assets/808410e5-b96f-4a1a-b9fc-cc673bc68674)
+<img width="1908" height="829" alt="Screenshot 2026-03-30 154433" src="https://github.com/user-attachments/assets/95f8abc5-a95f-43bb-af17-d5c951c3d16d" />
 
 ---
 
